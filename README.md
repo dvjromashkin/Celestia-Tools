@@ -35,7 +35,7 @@ For developers, Celestia offers various tools and frameworks to easily deploy an
 
 | Tools             | Descriptions                                                                                                                                                          |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<img src='https://raw.githubusercontent.com/dvjromashkin/Celestia-Tools/main/assets/proposal_bot_logo.png' alt='Proposal_Bot'  width='100%'>](./proposal-bot/README.md) | Find out about new Proposals on both the Celestia network and the Mocha network (Testnet) |
+| [<img src='https://raw.githubusercontent.com/dvjromashkin/Celestia-Tools/main/assets/proposal_bot_logo.png' alt='Proposal_Bot'  width='100%'>](./proposal_bot/README.md) | Find out about new Proposals on both the Celestia network and the Mocha network (Testnet) |
 | [<img src='https://raw.githubusercontent.com/dvjromashkin/Celestia-Tools/main/assets/RPC-Scanner.png' alt='RPC_Scanner'  width='100%'>](./rpc-scanner/README.md) | If you need to quickly find a working RPC, you can use our RPC Scanner. |
 | [<img src='https://raw.githubusercontent.com/dvjromashkin/Celestia-Tools/main/assets/explorer.png' alt='Explorer'  width='100%'>](./explorer/README.md) | Backup explorer, in case the explorer you usually use stops working. |
 | [<img src='https://raw.githubusercontent.com/dvjromashkin/Celestia-Tools/main/assets/services.png' alt='Services'  width='100%'>](./services/README.md) | Services we provide to developers: Archive RPC, API, gRPC, Snapshots, etc. |
